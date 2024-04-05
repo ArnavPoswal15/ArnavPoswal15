@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **instagram follower bot**
 
 - 💬 Ask me about **python , javascript , c++ , DSA**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
@@ -18,9 +16,9 @@
 
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypercube2426&show_icons=true&locale=en&layout=compact" alt="hypercube2426" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavPoswal15&show_icons=true&locale=en&layout=compact" alt="ArnavPoswal15" /></p>
 <br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypercube2426&show_icons=true&locale=en" alt="hypercube2426" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnavPoswal15&show_icons=true&locale=en" alt="ArnavPoswal15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypercube2426&" alt="hypercube2426" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&" alt="ArnavPoswal15" /></p>

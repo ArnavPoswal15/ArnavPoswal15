@@ -79,7 +79,9 @@
 </div> -->
 
 <h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
-<h3 align="center">🚀 Full-Stack Developer | DSA Enthusiast | Problem Solver</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;Python+%7C+JavaScript+%7C+C%2B%2B;Always+Learning+DSA" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />

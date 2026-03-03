@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;Python+%7C+JavaScript+%7C+C%2B%2B;Always+Learning+DSA" alt="Typing SVG" />
@@ -76,4 +76,85 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" />
-</div>
+</div> -->
+
+<h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
+<h3 align="center">🚀 Full-Stack Developer | DSA Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building: **Automation & AI-based Projects**
+- 🌱 Exploring: **Advanced Backend Systems & Scalable Architectures**
+- 💬 Ask me about: **Python, JavaScript, C++, DSA**
+- ⚡ Fun fact: I love turning ideas into real-world products.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArnavPoswal15&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavPoswal15&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavPoswal15&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🔥 "Code. Build. Scale. Repeat."</h3>

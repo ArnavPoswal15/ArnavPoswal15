@@ -120,11 +120,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArnavPoswal15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavPoswal15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&theme=tokyonight" />
 </p>
 
@@ -140,9 +135,7 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavPoswal15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
+![GitHub Rank](https://img.shields.io/github/followers/ArnavPoswal15?label=Followers&style=for-the-badge&color=00ff00)
 
 ---
 

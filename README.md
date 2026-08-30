@@ -1,8 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Arnav%20Poswal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Automation%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" />
+</div>
 
-# Hi there, I'm Arnav Poswal 👋
-
-### Building things with code, one commit at a time 🚀
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Automation+Developer;Python+%7C+JavaScript+%7C+C%2B%2B;DSA+Enthusiast+%F0%9F%94%A5;Always+Shipping+Something+New" alt="Typing SVG" />
 
@@ -23,6 +23,12 @@
 <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/ArnavPoswal15?label=Followers&style=for-the-badge&color=58A6FF&logo=github" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <br/>
@@ -57,6 +63,23 @@ fun_fact: "I turn coffee into code ☕ → 💻"
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 
 </div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ArnavPoswal15/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavPoswal15&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ArnavPoswal15/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArnavPoswal15&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repo names to auto-generate live pinned project cards.
 
 <br/>
 
@@ -106,3 +129,5 @@ fun_fact: "I turn coffee into code ☕ → 💻"
 ### 🔥 "Code. Build. Scale. Repeat."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" />

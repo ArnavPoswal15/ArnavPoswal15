@@ -90,10 +90,10 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/arnavposwal/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:poswalarnav37.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/ArnavPoswal15">

@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnav+Poswal;Python+%7C+JavaScript+%7C+Automation;Building+ideas+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnav+Poswal;Python+%7C+Java+%7C+Automation;Building+ideas+into+products" alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <!-- GitHub may proxy external images (camo) which can show a proxied URL — this is expected behavior. -->
   <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -26,7 +27,7 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 - 🔭 Currently building: automation and AI-driven projects
 - 🌱 Exploring: backend systems, scalable architecture, and DSA
-- 💬 Ask me about: Python, JavaScript, C++, automation, and product thinking
+- 💬 Ask me about: Python, Java, JavaScript, C++, automation, and product thinking
 - ⚡ Fun fact: I love turning coffee, curiosity, and code into something useful
 
 ---
@@ -35,17 +36,21 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" />
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p>
+  <strong>Vector DBs:</strong> Pinecone, Weaviate (used for semantic search / embeddings)
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,spring,kafka,redis" />
 </p>
 
 ---

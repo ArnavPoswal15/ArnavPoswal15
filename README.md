@@ -1,155 +1,101 @@
-<!-- <h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;Python+%7C+JavaScript+%7C+C%2B%2B;Always+Learning+DSA" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/><br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArnavPoswal15&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-* 🔭 **Currently working on:** An Instagram Automation & Follower Bot.
-* 🌱 **Currently learning:** Advanced Data Structures and Algorithms (DSA).
-* 💬 **Ask me about:** `Python`, `JavaScript`, `C++`, and problem-solving.
-* ⚡ **Fun fact:** I love turning coffee into code!
-
----
-
-### 🛠️ Languages and Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavPoswal15&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnavPoswal15&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" />
-</div> -->
-
-<h1 align="center">Hi 👋, I'm Arnav Poswal</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=A+Passionate+Developer+from+India;Python+%7C+JavaScript+%7C+C%2B%2B;Always+Learning+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnav+Poswal;Python+%7C+JavaScript+%7C+Automation;Building+ideas+into+products" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ArnavPoswal15&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </p>
+
+<div align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ArnavPoswal15">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building: **Automation & AI-based Projects**
-- 🌱 Exploring: **Advanced Backend Systems & Scalable Architectures**
-- 💬 Ask me about: **Python, JavaScript, C++, DSA**
-- ⚡ Fun fact: I love turning ideas into real-world products.
+I’m a developer who enjoys turning ideas into real-world products. My work sits at the intersection of Python, automation, AI, and problem-solving, with a strong interest in building practical tools that simplify workflows and improve user experience.
+
+- 🔭 Currently building: automation and AI-driven projects
+- 🌱 Exploring: backend systems, scalable architecture, and DSA
+- 💬 Ask me about: Python, JavaScript, C++, automation, and product thinking
+- ⚡ Fun fact: I love turning coffee, curiosity, and code into something useful
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css" />
 </p>
 
-### 🗄️ Database
+### Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+</p>
+
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+---
+
+## 🚀 Featured Projects
+
+- [FocusFleet](https://github.com/ArnavPoswal15/FocusFleet) — AI-powered driver safety monitoring system
+- [Election-Results-Analysis](https://github.com/ArnavPoswal15/Election-Results-Analysis) — clustering and data analysis on election data
+- [Drug_PrescriptionNLP](https://github.com/ArnavPoswal15/Drug_PrescriptionNLP) — NLP-based drug prescription analysis
+- [Designed-Tour](https://github.com/ArnavPoswal15/Designed-Tour) — design-focused project exploration
+- [weatherApp](https://github.com/ArnavPoswal15/weatherApp) — web app for weather data
+- [snake-game](https://github.com/ArnavPoswal15/snake-game) — classic arcade game implementation
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavPoswal15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavPoswal15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavPoswal15&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-🐍 Contribution Snake
+## 🏆 Highlights
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" />
-</div>
-
----
-
-## 🏆 Achievements
-
-![GitHub Rank](https://img.shields.io/github/followers/ArnavPoswal15?label=Followers&style=for-the-badge&color=00ff00)
+<img src="https://img.shields.io/github/followers/ArnavPoswal15?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers" />
+<img src="https://img.shields.io/badge/Projects-Building-0A66C2?style=for-the-badge" alt="Projects building" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Automation-00C853?style=for-the-badge" alt="Focus" />
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:your-email@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://github.com/ArnavPoswal15">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🔥 "Code. Build. Scale. Repeat."</h3>
+<h3 align="center">🔥 Code. Build. Scale. Repeat.</h3>

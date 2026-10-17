@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Arnav+Poswal;Python+%7C+Java+%7C+Automation;Building+ideas+into+products" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=140&section=header&text=Arnav%20Poswal&fontSize=36&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">

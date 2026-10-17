@@ -1,4 +1,4 @@
-<div align="center">
+
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=140&section=header&text=Arnav%20Poswal&fontSize=36&fontColor=ffffff" width="100%" />
 </div> -->
 <img
@@ -6,7 +6,7 @@
     width="100%"
     alt="Arnav Poswal"
   />
-  <div/>
+
 <div align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />

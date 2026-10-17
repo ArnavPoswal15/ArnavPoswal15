@@ -20,10 +20,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a developer who enjoys turning ideas into real-world products. My work sits at the intersection of Python, automation, AI, and problem-solving, with a strong interest in building practical tools that simplify workflows and improve user experience.
+I’m a developer who enjoys turning ideas into real-world products. My work sits at the intersection of Python, AI, automation, and problem-solving, with a strong interest in building practical tools that simplify workflows and improve user experience.
 
-- 🔭 Currently building: automation and AI-driven projects
-- 🌱 Exploring: backend systems, scalable architecture, and DSA
+- 🔭 Currently building: Backend System and AI-driven projects
+- 🌱 Exploring: AI automation, scalable architecture, and DSA
 - 💬 Ask me about: Python, Java, JavaScript, C++, automation, and product thinking
 - ⚡ Fun fact: I love turning coffee, curiosity, and code into something useful
 

@@ -1,12 +1,9 @@
 
-  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=140&section=header&text=Arnav%20Poswal&fontSize=36&fontColor=ffffff" width="100%" />
-</div> -->
 <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=200&section=header&text=Arnav%20Poswal&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
     alt="Arnav Poswal"
   />
-
 <div align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />

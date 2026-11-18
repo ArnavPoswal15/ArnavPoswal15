@@ -33,7 +33,7 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,js,ts,html,css" />
 </p>
 
 ### Databases

@@ -38,7 +38,7 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
 <p>

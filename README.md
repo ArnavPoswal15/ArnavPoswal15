@@ -1,4 +1,3 @@
-
 <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=200&section=header&text=Arnav%20Poswal&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
@@ -54,12 +53,13 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ## 🚀 Featured Projects
 
-- [FocusFleet](https://github.com/ArnavPoswal15/FocusFleet) — AI-powered driver safety monitoring system
-- [Election-Results-Analysis](https://github.com/ArnavPoswal15/Election-Results-Analysis) — clustering and data analysis on election data
-- [Drug_PrescriptionNLP](https://github.com/ArnavPoswal15/Drug_PrescriptionNLP) — NLP-based drug prescription analysis
-- [Designed-Tour](https://github.com/ArnavPoswal15/Designed-Tour) — design-focused project exploration
-- [weatherApp](https://github.com/ArnavPoswal15/weatherApp) — web app for weather data
-- [snake-game](https://github.com/ArnavPoswal15/snake-game) — classic arcade game implementation
+A selection of projects that showcase full-stack product development, distributed systems, and applied AI:
+
+- **[Orderflow Platform](https://github.com/ArnavPoswal15/orderflow-platform)** — Event-driven order-processing platform built with Spring Boot microservices, Kafka choreography, transactional outbox, idempotent consumers, PostgreSQL, Redis, and a Next.js storefront. Includes integration/acceptance tests, observability, and k6 load-test tooling.
+- **[Folio](https://github.com/ArnavPoswal15/Folio)** — Book-inspired digital journal with an interactive page-turn experience, voice dictation, guest mode, and cloud sync. [Try the live app](https://folio-journal-book.ai.studio/).
+- **[FocusFleet](https://github.com/ArnavPoswal15/FocusFleet)** — Driver drowsiness monitoring using computer vision, MediaPipe landmarks, and a FastAPI + Next.js app with live monitoring. [Try the Hugging Face demo](https://huggingface.co/spaces/ArnavPoswal15/FocusFleet).
+- **[Fraud Call Detection](https://github.com/ArnavPoswal15/Fraud-Call-Detection)** — NLP pipeline that classifies speech-to-text call transcripts with a fine-tuned XLNet model; reported 20/21 correct on its small test set (21 recordings).
+- **[pgflight](https://github.com/ArnavPoswal15/pgflight)** — Rust project exploring a PostgreSQL proxy with query analysis, N+1 detection, and safe shadow replay. Early development; core proxy and analysis features are still in progress.
 
 ---
 

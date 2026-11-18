@@ -33,7 +33,7 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,rust,js,ts,html,css,apple," />
 </p>
 
 ### Databases
@@ -47,7 +47,7 @@ I’m a developer who enjoys turning ideas into real-world products. My work sit
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,spring,kafka,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,figma,postman,spring,kafka,redis" />
 </p>
 
 ---
